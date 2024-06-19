@@ -6,9 +6,7 @@
 <p align="center">I ❤️ solve big challenges using technology.
  Full-stack software developer passionate about solving complex problems through technology, integrating all of this with the fundamentals of agile development.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=vanessamaia&theme=radical&mode=weekly" />
- </div>
+
  
  &nbsp;
  &nbsp;
